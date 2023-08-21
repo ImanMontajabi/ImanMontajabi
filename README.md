@@ -1,1 +1,1 @@
-![wallpaper-nerd](https://github.com/ImanMontajabi/ImanMontajabi/assets/52942515/95893e6a-7b4a-4f76-8b57-884b6866ca56)
+![geek-game](https://github.com/ImanMontajabi/ImanMontajabi/assets/52942515/69fd6160-71a1-4035-af96-1212c5a7ee7c)
