@@ -1,1 +1,1 @@
-![dev-full](https://github.com/ImanMontajabi/ImanMontajabi/assets/52942515/526fb72a-aec6-46ca-a067-0e163508f04c)
+![wallpaper-nerd](https://github.com/ImanMontajabi/ImanMontajabi/assets/52942515/95893e6a-7b4a-4f76-8b57-884b6866ca56)
