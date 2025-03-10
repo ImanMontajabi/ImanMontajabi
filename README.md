@@ -1,5 +1,4 @@
-![1000008651](https://github.com/user-attachments/assets/a353c539-4d27-4686-aa2b-ef4aa7d5a81e)
-</br>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7eb5f684-a7bd-482a-b329-73bc85497b31" height="auto" width="45">
