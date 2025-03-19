@@ -13,5 +13,6 @@
 </br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImanMontajabi&langs_count=5&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ImanMontajabi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ImanMontajabi&layout=compact&langs_count=8&theme=algolia"/>
 </p>
